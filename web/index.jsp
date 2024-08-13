@@ -18,7 +18,7 @@
              }
                body{
                  
-           background:url(img/bg.jpg);
+           background:url(img/bgp.jpg);
                 background-size: cover;
                 background-attachment: fixed;  
             }
@@ -61,7 +61,7 @@
                  <p class=" text-white">A programming language is a type of written language that tells computers what to do. Examples are: Python, Ruby, Java, JavaScript, C, C++, and C#. Programming languages are used to write computer programs and computer software. A programming language is like a set of commands that tell the computer how to do things.
 
                   </p>
-                  <button class="btn btn-outline-light  btn-lg" ><span class="fa fa-keyboard-o"></span>Start! its free </button>
+                  <a href="Register_page.jsp" class="btn btn-outline-light  btn-lg" ><span class="fa fa-keyboard-o"></span>Start! its free </button>
                    <a href="login.jsp" class="btn btn-outline-light btn-lg"> <span class="fa fa-user-circle fa-spin"></span>  Login</a>
                    
                  </div>
@@ -71,84 +71,7 @@
          </div>
          
          
-<!--         cards
--->         <div class="container">
-             <div  class=row mb-3">
-                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">Java Programming Language</h5>
-                         <p class="card-text"> Java is a widely-used programming language for coding web applications. It has been a popular choice among developers for over two decades, with millions of Java applications in use today. Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself.</p>
-                           
-                        </div>
-                      </div>
-                     
-                 </div>
-                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">C++ Programming Language</h5>
-                         <p class="card-text"> C++ is the most used and most popular programming language developed by Bjarne Stroustrup. C++ is a high-level and object-oriented programming language. This language allows developers to write clean and efficient code for large applications and software development, game development, and operating system programming. It is an expansion of the C programming language to include Object Oriented Programming(OOPs) and is used to develop programs for computers. </p>
-                           
-                        </div>
-                      </div>
-                     
-                 </div>
-                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">Data Structures</h5>
-                         <p class="card-text"> A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.</p>
-                           
-                        </div>
-                      </div>
-                     
-                 </div>
-                 
-             </div>
-         </div>
-<!--         <div class="container">
-             <div class=row mb-3">
-                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">Java Programming Language</h5>
-                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                          <a href="#" class="btn primary-background text-white">Read More</a>
-                        </div>
-                      </div>
-                     
-                 </div>-->
-<!--                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">Java Programming Language</h5>
-                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                          <a href="#" class="btn primary-background text-white">Read More</a>
-                        </div>
-                      </div>
-                     
-                 </div>-->
-<!--                 <div class="col-md-4">
-                     <div class="card">
-                    
-                       <div class="card-body">
-                         <h5 class="card-title">Java Programming Language</h5>
-                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                          <a href="#" class="btn primary-background text-white">Read More</a>
-                        </div>
-                      </div>
-                     
-                 </div>-->
-                 
-<!--             </div>
-         </div>-->
-  
+
           
          
           <!--javascript-->

@@ -87,12 +87,12 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+<ul class="navbar-nav mr-auto">
+     <!--     <li class="nav-item active">
         <a class="navbar-brand" href="#"><span class="fa fa-bell-o"</span>Code Special <span class="sr-only">(current)</span></a>
-      </li>
+      </li>-->
       
-      <li class="nav-item dropdown">
+<!--      <li class="nav-item dropdown">
         <a class="navbar-brand dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"  aria-expanded="false">
           <span class="fa fa-check-square-o"</span>
           Categories
@@ -103,11 +103,11 @@
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">Project Implementation</a>
         </div>
-      </li>
+      </li>-->
        
-      <li class="nav-item">
+<!--      <li class="nav-item">
           <a class="navbar-brand" href="#"><span class="fa fa-address-book-o"</span>Contacts</a>
-      </li>
+      </li>-->
       <li class="nav-item">
           <a class="navbar-brand" href="#" data-toggle="modal" data-target="#add-post-modal"><span class="fa fa-asterisk"</span>Do Post</a>
       </li>
